@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1700249761 source:c:\users\abner\onedrive\documentos\universidad\codeblock c\final_project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"functions.h"
+
+1700251746 c:\users\abner\onedrive\documentos\universidad\codeblock c\final_project\functions.h
+
